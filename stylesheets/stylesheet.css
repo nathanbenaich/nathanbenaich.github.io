@@ -258,3 +258,8 @@ a {
     display: block;
     width: 60px;
 }
+
+.page-header {
+  margin: 0px 0 10px;
+}
+
