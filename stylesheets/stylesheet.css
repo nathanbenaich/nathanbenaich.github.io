@@ -245,3 +245,16 @@ a {
     font-size: 0.9rem; } }
 
 <!-- added by Nathan -->
+#menu ul {
+  height: auto;
+  padding: 8px 0px;
+  margin: 0px;
+}
+#menu li {
+  float: left;
+}
+
+#menu a {
+    display: block;
+    width: 60px;
+}
