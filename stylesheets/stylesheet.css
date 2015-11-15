@@ -269,3 +269,19 @@ html {
 
 .site-footer-credits {
   font-size: 0.85rem; }
+
+/* added from Bootply for cards UI http://www.bootply.com/xKqwQXyGsJ */
+
+.thumbnail {
+  padding: 0px;
+  min-height: 284.344px;
+}
+
+.thumbnail img {
+  min-height: 10px;
+  max-height: 136.75px;
+}
+
+.caption {
+  min-height: 145px;
+}
