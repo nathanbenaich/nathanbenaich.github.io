@@ -285,3 +285,18 @@ html {
 .caption {
   min-height: 145px;
 }
+
+/* added to format Medium embed cards */
+.row {
+  display: table;
+}
+
+.boxes {
+  display: table
+  width: 100%
+  height: 100%;
+}
+
+.box {
+  display: table-cell;
+}
