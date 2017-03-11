@@ -15,9 +15,11 @@ a {
   a:hover {
     text-decoration: underline; }
 
+/* changed margin-bottom to 0rem */
+
 .btn {
   display: inline-block;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
   color: rgba(255, 255, 255, 0.7);
   background-color: rgba(255, 255, 255, 0.08);
   border-color: rgba(255, 255, 255, 0.2);
@@ -87,8 +89,10 @@ a {
   .project-name {
     font-size: 1.75rem; } }
 
+/* changed margin-bottom to 2rem */
+
 .project-tagline {
-  margin-bottom: 0rem;
+  margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.7; }
 
