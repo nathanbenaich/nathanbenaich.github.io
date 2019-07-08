@@ -1,0 +1,7 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect domain aliases to primary domain
+http://nathanbenaich.github.io/* https://www.nathanbenaich.com/:splat 301!
+
+# Redirect default Netlify subdomain to primary domain
+https://nathanbenaich.netlify.com/* https://www.nathanbenaich.com/:splat 301!
