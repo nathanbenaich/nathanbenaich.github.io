@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Nathan Benaich, Air Street Capital</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <meta name="description" content="Homepage of Nathan Benaich, Founder of Air Street Capital and RAAIS.">
+    <meta name="keywords" content="venture capital, investing, technology, VC, investment, funding, point nine capital, air street capital, artificial intelligence, machine learning, deep learning, intelligent systems, research, startups">
+    <link rel="icon" href="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVtAAAAJDYzNTBjMDFjLWE4Y2ItNDI2NC04ZmE3LTRiZWJiZWNhOWJkNA.jpg" type="image/jpg" sizes="32x32">
+    <meta name="author" content="Nathan Benaich">
+
+<!-- Google Analytics -->
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-XXXXX-Y', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+<!-- End Google Analytics -->
+
+<!-- Google schema -->
+<script type="application/ld+json">
+        {
+          "@context" : "http://schema.org",
+          "@type" : "Person",
+          "name" : "Nathan Benaich",
+             "affiliation" : {
+            "@type" : "Corporation",
+            "name" : "Air Street Capital"
+          },
+             "alumniOf" : {
+            "@type" : "Corporation",
+            "name" : "Point Nine Capital"
+          },
+             "colleagues" : {
+            "@type" : "Person",
+            "name" : ["Luc Vincent", "Phil Keslin", "Gabriel Dulac-Arnold", "Jan Erik Solem", "Gaile Gordon", "Victoria Rege", "Julien Cornebise", "Christoph Janz"]
+          },
+          "hasOccupation" : {
+            "@type" : "Occupation",
+            "description" : "Venture capital investor"
+          },
+          "knowsAbout" : ["State of AI Report 2019", "artificial intelligence", "deep learning", "machine learning", "reinforcement learning", "supervised learning", "startups", "venture capital", "State of AI", "State of AI Report", "State of AI Report 2018", "investing", "early stage investing", "SaaS", "software-as-a-service"],
+          "description" : "Nathan Benaich is the Founder of Air Street Capital, a venture capital firm investing in startups using artificial intelligence to build products for consumers and enterprises",
+          "url" : "https://www.nathanbenaich.com"
+        }
+        </script>
+
+  </head>
+
+  <body>
+
+    <section class="page-header">
+      <h1 class="project-name">Nathan Benaich, PhD</h1>
+      <h2 class="project-tagline">Air Street Capital</h2>
+      <a href="https://www.nathanbenaich.com/" class="btn">Home</a>
+      <a href="https://www.nathanbenaich.com/research.html" class="btn">Research</a>
+      <a href="http://newsletter.airstreet.com/" class="btn">AI Newsletter</a>
+      <a href="https://www.airstreet.com/" class="btn">Air Street Capital</a>
+      <a href="https://www.raais.co/" class="btn">RAAIS</a>
+      <!-- <a href="http://nathanbenaich.github.io/investments.html" class="btn">Investments</a> -->
+    </section>
+
+    <section class="main-content">
+<h3>
+  <a id="about-me" class="anchor" href="#blog" aria-hidden="true"><span class="octicon octicon-link"></span></a>Featured investments</h3>
+
+<!-- added for the cards UI -->
+<hr>
+<div class="container">
+      <div class="row">
+        <div class="col-xs-18 col-sm-6 col-md-3">
+          <div class="thumbnail" style="padding-bottom: 17.5px">
+            <a href="http://www.dojoapp.co"><img src="https://s3.amazonaws.com/portfoliologos/dojo+app+logo.png" background-color="#000"></a>
+              <div class="caption">
+                <h4><a href="http://www.dojoapp.co">Dojo</a></h4>
+                <p>Find the best places to eat, drink and go out in London and Paris.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-18 col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.appearhere.co.uk"><img src="https://s3.amazonaws.com/portfoliologos/logo-light-appear-here.png" style="padding-top: 35.8125px; padding-bottom: 35.8125px"></a>
+              <div class="caption">
+                <h4><a href="http://www.appearhere.co.uk">Appear Here</a></h4>
+                <p>Find space for our idea. Rent shops, markets and space in cities across the UK.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-18 col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.mapillary.com"><img src="https://s3.amazonaws.com/portfoliologos/mapillary-logo-1000px-black.png" style="padding-top: 35.8125px; padding-bottom: 35.8125px"></a>
+              <div class="caption">
+                <h4><a href="http://www.mapillary.com">Mapillary</a></h4>
+                <p>Street level photos: discover places and capture the world around you.</p>
+            </div>
+          </div>
+        </div>
+        
+  </div><!--/row-->
+
+      <div class="row">
+        <div class="col-xs-18 col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.ravelin.com"><img src="https://s3.amazonaws.com/portfoliologos/Ravelin_HorizontalCMYK_Grey.jpg" style="padding-top: 35.8125px; padding-bottom: 47.8125px; padding-left: 5px; padding-right: 5px;"></a>
+              <div class="caption">
+                <h4><a href="http://www.ravelin.com">Ravelin</a></h4>
+                <p>Fraud detection for the on-demand economy using both AI/ML and rules.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-18 col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.festicket.com"><img src="https://s3.amazonaws.com/portfoliologos/festicket+logo.jpg" style="padding-bottom: 16px"></a>
+              <div class="caption" style="padding-bottom: 59px">
+                <h4><a href="http://www.festicket.com">Festicket</a></h4>
+                <p>The world's largest live music travel platform.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-18 col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <a href="http://www.gluru.co"><img src="https://s3.amazonaws.com/portfoliologos/Gluru-Logo-Blue.png" style="padding-top: 35.8125px; padding-bottom: 35.8125px"></a>
+              <div class="caption">
+                <h4><a href="http://www.gluru.co">Gluru</a></h4>
+                <p>Organize important moments: the smart way to find and organize your files.</p>
+            </div>
+          </div>
+        </div>
+
+  </div><!--/row-->
+
+      <div class="row">
+        <div class="col-xs-18 col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <a href="https://numer.ai/"><img src="https://s3.amazonaws.com/portfoliologos/Numerai_logo.png" style="padding-top: 25.8125px; padding-bottom: 25.8125px; padding-left: 5px; padding-right: 5px;"></a>
+              <div class="caption">
+                <h4><a href="https://numer.ai/">Numerai</a></h4>
+                <p>A new kind of hedge fund built by a network of data scientists.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-18 col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <a href="https://www.Jukedeck.com"><img src="https://s3.amazonaws.com/portfoliologos/jukedeck+logo2.png" style="padding-top: 27.8125px; padding-bottom: 38.8125px; padding-left: 5px; padding-right: 5px;"></a>
+              <div class="caption">
+                <h4><a href="https://www.Jukedeck.com">Jukedeck</a></h4>
+                <p>AI that revolutionises the way music is made and consumed.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-18 col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <a href="https://www.starship.xyz/"><img src="https://s3.amazonaws.com/portfoliologos/starship+logo.jpg" style="padding-top: 49.8125px; padding-bottom: 49.8125px; padding-left: 5px; padding-right: 5px;"></a>
+              <div class="caption">
+                <h4><a href="https://www.starship.xyz/">Starship Technologies</a></h4>
+                <p>Robots to revolutionize local delivery.</p>
+            </div>
+          </div>
+        </div>
+        
+  </div><!--/row-->
+
+</div><!--/container -->
+
+      <footer class="site-footer">
+        <span class="site-footer-credits">Copyright 2019 Nathan Benaich. All rights reserved. This is a work in progress from a code tinkerer :)
+      </footer>
+
+    </section>
+
+            <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-41373361-2");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>
