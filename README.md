@@ -2,7 +2,7 @@
 
 For more, head over to:
 
-Air Street Capital: www.airstreet.com
+## Air Street Capital: www.airstreet.com
 Research and Applied AI Summit: www.raas.co
 RAAIS Foundation: www.raais.org
 London.AI: www.london.ai
