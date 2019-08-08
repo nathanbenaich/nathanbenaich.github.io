@@ -307,3 +307,14 @@ html {
 .container {
   max-width: 1050px;
 }
+
+.figure-container {
+  margin-bottom: 9px;
+  text-align: center;
+  max-width: 831.98px !important;
+}
+.figure {
+  width: 500px !important;
+  text-align: center;
+}
+
