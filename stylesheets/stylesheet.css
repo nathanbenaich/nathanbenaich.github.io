@@ -7,7 +7,8 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #565b5e; }
+  /* color used to be 606c71 */
 
 a {
   color: #1e6bb8;
@@ -314,8 +315,9 @@ html {
   max-width: 831.98px !important;
 }
 .figure {
-  width: 500px !important;
+  width: 700px !important;
   text-align: center;
+  /* increased this to 500px */
 }
 .h4 {
   font-size: 20px;
