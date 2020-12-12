@@ -15,5 +15,5 @@ Our mission is to advance education and research in artificial intelligence for 
 ## London.AI: www.london.ai
 A vibrant community of AI practitioners from large technology companies, startups and academic institutions. 
 
-## AI Newsletter: http://newsletter.airstreet.com
+## AI Newsletter: https://newsletter.airstreet.com
 A market intelligence newsletter followed by 12k subscribers. It covers AI in the technology industry, research lab and venture capital market.
