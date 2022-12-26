@@ -12,8 +12,11 @@ You can watch all prior RAAIS talks at https://www.youtube.com/channel/UCL78WE5t
 ## RAAIS Foundation: www.raais.org
 Our mission is to advance education and research in artificial intelligence for the common good.
 
+## Spinout.fyi: www.spinout.fyi
+Spinout.fyi seeks to empower university inventors to form companies from their research. We host the largest open dataset on spinout deal terms that is crowdsourced from hundreds of spinouts around the world.
+
 ## London.AI: www.london.ai
 A vibrant community of AI practitioners from large technology companies, startups and academic institutions. 
 
-## AI Newsletter: https://newsletter.airstreet.com
-A market intelligence newsletter followed by 12k subscribers. It covers AI in the technology industry, research lab and venture capital market.
+## AI Newsletter: https://nathanbenaich.substack.com
+A market intelligence newsletter followed by 19k subscribers. It covers AI in the technology industry, research lab and venture capital market.
