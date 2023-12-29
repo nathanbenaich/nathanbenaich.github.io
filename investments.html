@@ -192,10 +192,16 @@
 </div><!--/container -->
 
       <footer class="site-footer">
-        <span class="site-footer-credits">Copyright 2023 Nathan Benaich. All rights reserved. This is a work in progress from a code tinkerer :)
+        <span class="site-footer-credits">Copyright <span id="year"></span> Nathan Benaich. All rights reserved. This is a work in progress from a code tinkerer :)
       </footer>
 
     </section>
+
+        <!-- snippet to make sure the footer year prints current year and doesn't need updating -->
+
+            <script>
+            document.getElementById("year").innerHTML = new Date().getFullYear();
+            </script>
 
             <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
