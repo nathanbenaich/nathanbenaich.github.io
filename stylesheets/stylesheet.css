@@ -354,3 +354,7 @@ html {
 .h3 {
   font-size: 40px;
 }
+
+.redirect-page {
+  background-color: #010061ff !important;
+}
