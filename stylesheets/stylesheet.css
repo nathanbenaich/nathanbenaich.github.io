@@ -1,17 +1,6 @@
 * {
   box-sizing: border-box; }
 
-body2 {
-    background-color: #010061ff !important;
-  padding: 0;
-  margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  color: #565b5e; }
-  /* color used to be 606c71 */
-}
-
 body {
   padding: 0;
   margin: 0;
