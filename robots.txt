@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /risks
+
+Sitemap: https://www.nathanbenaich.com/sitemap.xml
+llms: https://www.nathanbenaich.com/llms.txt
